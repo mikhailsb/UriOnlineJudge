@@ -1,0 +1,13 @@
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\SomaSimples\bin\Debug\netcoreapp3.1\SomaSimples.exe
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\SomaSimples\bin\Debug\netcoreapp3.1\SomaSimples.deps.json
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\SomaSimples\bin\Debug\netcoreapp3.1\SomaSimples.runtimeconfig.json
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\SomaSimples\bin\Debug\netcoreapp3.1\SomaSimples.runtimeconfig.dev.json
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\SomaSimples\bin\Debug\netcoreapp3.1\SomaSimples.dll
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\SomaSimples\bin\Debug\netcoreapp3.1\SomaSimples.pdb
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\SomaSimples\obj\Debug\netcoreapp3.1\SomaSimples.csprojAssemblyReference.cache
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\SomaSimples\obj\Debug\netcoreapp3.1\SomaSimples.AssemblyInfoInputs.cache
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\SomaSimples\obj\Debug\netcoreapp3.1\SomaSimples.AssemblyInfo.cs
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\SomaSimples\obj\Debug\netcoreapp3.1\SomaSimples.csproj.CoreCompileInputs.cache
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\SomaSimples\obj\Debug\netcoreapp3.1\SomaSimples.dll
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\SomaSimples\obj\Debug\netcoreapp3.1\SomaSimples.pdb
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\SomaSimples\obj\Debug\netcoreapp3.1\SomaSimples.genruntimeconfig.cache

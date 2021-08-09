@@ -1,0 +1,13 @@
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\ProdutoSimples\bin\Debug\netcoreapp3.1\ProdutoSimples.exe
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\ProdutoSimples\bin\Debug\netcoreapp3.1\ProdutoSimples.deps.json
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\ProdutoSimples\bin\Debug\netcoreapp3.1\ProdutoSimples.runtimeconfig.json
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\ProdutoSimples\bin\Debug\netcoreapp3.1\ProdutoSimples.runtimeconfig.dev.json
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\ProdutoSimples\bin\Debug\netcoreapp3.1\ProdutoSimples.dll
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\ProdutoSimples\bin\Debug\netcoreapp3.1\ProdutoSimples.pdb
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\ProdutoSimples\obj\Debug\netcoreapp3.1\ProdutoSimples.csprojAssemblyReference.cache
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\ProdutoSimples\obj\Debug\netcoreapp3.1\ProdutoSimples.AssemblyInfoInputs.cache
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\ProdutoSimples\obj\Debug\netcoreapp3.1\ProdutoSimples.AssemblyInfo.cs
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\ProdutoSimples\obj\Debug\netcoreapp3.1\ProdutoSimples.csproj.CoreCompileInputs.cache
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\ProdutoSimples\obj\Debug\netcoreapp3.1\ProdutoSimples.dll
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\ProdutoSimples\obj\Debug\netcoreapp3.1\ProdutoSimples.pdb
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\ProdutoSimples\obj\Debug\netcoreapp3.1\ProdutoSimples.genruntimeconfig.cache

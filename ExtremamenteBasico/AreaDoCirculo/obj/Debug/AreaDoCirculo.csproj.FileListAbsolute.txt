@@ -1,0 +1,7 @@
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\AreaDoCirculo\bin\Debug\AreaDoCirculo.exe.config
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\AreaDoCirculo\bin\Debug\AreaDoCirculo.exe
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\AreaDoCirculo\bin\Debug\AreaDoCirculo.pdb
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\AreaDoCirculo\obj\Debug\AreaDoCirculo.csprojAssemblyReference.cache
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\AreaDoCirculo\obj\Debug\AreaDoCirculo.csproj.CoreCompileInputs.cache
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\AreaDoCirculo\obj\Debug\AreaDoCirculo.exe
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\AreaDoCirculo\obj\Debug\AreaDoCirculo.pdb
