@@ -16,7 +16,15 @@ namespace Media2
          */
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            double A = double.Parse(Console.ReadLine());
+
+            double B = double.Parse(Console.ReadLine());
+
+            double C = double.Parse(Console.ReadLine());
+
+            double MEDIA = ((Math.Abs(A) * 2) + (Math.Abs(B) * 3) + (Math.Abs(C) * 5)) / ( 2 + 3 + 5) ;
+
+            Console.WriteLine("MEDIA = {0}", MEDIA.ToString("0.0"));
         }
     }
 }

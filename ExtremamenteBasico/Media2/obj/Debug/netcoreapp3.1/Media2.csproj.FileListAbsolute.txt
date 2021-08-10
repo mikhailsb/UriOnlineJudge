@@ -1,0 +1,13 @@
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Media2\bin\Debug\netcoreapp3.1\Media2.exe
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Media2\bin\Debug\netcoreapp3.1\Media2.deps.json
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Media2\bin\Debug\netcoreapp3.1\Media2.runtimeconfig.json
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Media2\bin\Debug\netcoreapp3.1\Media2.runtimeconfig.dev.json
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Media2\bin\Debug\netcoreapp3.1\Media2.dll
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Media2\bin\Debug\netcoreapp3.1\Media2.pdb
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Media2\obj\Debug\netcoreapp3.1\Media2.csprojAssemblyReference.cache
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Media2\obj\Debug\netcoreapp3.1\Media2.AssemblyInfoInputs.cache
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Media2\obj\Debug\netcoreapp3.1\Media2.AssemblyInfo.cs
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Media2\obj\Debug\netcoreapp3.1\Media2.csproj.CoreCompileInputs.cache
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Media2\obj\Debug\netcoreapp3.1\Media2.dll
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Media2\obj\Debug\netcoreapp3.1\Media2.pdb
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Media2\obj\Debug\netcoreapp3.1\Media2.genruntimeconfig.cache

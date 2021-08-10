@@ -1,0 +1,13 @@
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Diferenca\bin\Debug\netcoreapp3.1\Diferenca.exe
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Diferenca\bin\Debug\netcoreapp3.1\Diferenca.deps.json
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Diferenca\bin\Debug\netcoreapp3.1\Diferenca.runtimeconfig.json
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Diferenca\bin\Debug\netcoreapp3.1\Diferenca.runtimeconfig.dev.json
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Diferenca\bin\Debug\netcoreapp3.1\Diferenca.dll
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Diferenca\bin\Debug\netcoreapp3.1\Diferenca.pdb
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Diferenca\obj\Debug\netcoreapp3.1\Diferenca.csprojAssemblyReference.cache
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Diferenca\obj\Debug\netcoreapp3.1\Diferenca.AssemblyInfoInputs.cache
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Diferenca\obj\Debug\netcoreapp3.1\Diferenca.AssemblyInfo.cs
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Diferenca\obj\Debug\netcoreapp3.1\Diferenca.csproj.CoreCompileInputs.cache
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Diferenca\obj\Debug\netcoreapp3.1\Diferenca.dll
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Diferenca\obj\Debug\netcoreapp3.1\Diferenca.pdb
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Diferenca\obj\Debug\netcoreapp3.1\Diferenca.genruntimeconfig.cache
