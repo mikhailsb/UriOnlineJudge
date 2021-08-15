@@ -1,0 +1,13 @@
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\SalarioComBonus\bin\Debug\netcoreapp3.1\SalarioComBonus.exe
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\SalarioComBonus\bin\Debug\netcoreapp3.1\SalarioComBonus.deps.json
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\SalarioComBonus\bin\Debug\netcoreapp3.1\SalarioComBonus.runtimeconfig.json
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\SalarioComBonus\bin\Debug\netcoreapp3.1\SalarioComBonus.runtimeconfig.dev.json
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\SalarioComBonus\bin\Debug\netcoreapp3.1\SalarioComBonus.dll
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\SalarioComBonus\bin\Debug\netcoreapp3.1\SalarioComBonus.pdb
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\SalarioComBonus\obj\Debug\netcoreapp3.1\SalarioComBonus.csprojAssemblyReference.cache
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\SalarioComBonus\obj\Debug\netcoreapp3.1\SalarioComBonus.AssemblyInfoInputs.cache
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\SalarioComBonus\obj\Debug\netcoreapp3.1\SalarioComBonus.AssemblyInfo.cs
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\SalarioComBonus\obj\Debug\netcoreapp3.1\SalarioComBonus.csproj.CoreCompileInputs.cache
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\SalarioComBonus\obj\Debug\netcoreapp3.1\SalarioComBonus.dll
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\SalarioComBonus\obj\Debug\netcoreapp3.1\SalarioComBonus.pdb
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\SalarioComBonus\obj\Debug\netcoreapp3.1\SalarioComBonus.genruntimeconfig.cache
