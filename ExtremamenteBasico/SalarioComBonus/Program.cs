@@ -14,10 +14,6 @@ namespace SalarioComBonus
 
             double total = salario + ((totalVendas / 100) * 15);
 
-            Console.WriteLine("Divi: {0}", (totalVendas / 100));
-
-            Console.WriteLine("Divi: {0}", ((totalVendas / 100) * 15));
-
             Console.WriteLine("TOTAL = R$ {0}", total.ToString("0.00"));
 
             Console.ReadLine();

@@ -15,6 +15,8 @@ namespace AreaDoCirculo
             Console.WriteLine("Digite o valor do raio: ");
             double raio = double.Parse(Console.ReadLine());
 
+            Console.WriteLine("A={0}", Math.Pow(raio, 2));
+
             double area =  n * Math.Pow(raio, 2);
 
             //Console.WriteLine("A={0:N4}", area);
