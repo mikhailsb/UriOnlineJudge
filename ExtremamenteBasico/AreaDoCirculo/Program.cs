@@ -12,7 +12,7 @@ namespace AreaDoCirculo
         {
             double n = 3.14159;
 
-            Console.WriteLine("Digite o valor do raio: ");
+            //Console.WriteLine("Digite o valor do raio: ");
             double raio = double.Parse(Console.ReadLine());
 
             Console.WriteLine("A={0}", Math.Pow(raio, 2));
@@ -21,7 +21,7 @@ namespace AreaDoCirculo
 
             //Console.WriteLine("A={0:N4}", area);
 
-            Console.WriteLine("A={0}", area.ToString("0.0000"));
+            Console.WriteLine(" A = {0}", area.ToString("0.0000"));
 
             Console.ReadLine();
         }
