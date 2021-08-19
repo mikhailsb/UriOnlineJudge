@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Esfera", "Esfera\Esfera.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Area", "Area\Area.csproj", "{A453D352-ACF9-4F88-8978-1F8523FEBD19}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OMaior", "OMaior\OMaior.csproj", "{54836D29-93F2-430A-BA4D-D6F3B7CBC632}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{A453D352-ACF9-4F88-8978-1F8523FEBD19}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A453D352-ACF9-4F88-8978-1F8523FEBD19}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A453D352-ACF9-4F88-8978-1F8523FEBD19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54836D29-93F2-430A-BA4D-D6F3B7CBC632}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54836D29-93F2-430A-BA4D-D6F3B7CBC632}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54836D29-93F2-430A-BA4D-D6F3B7CBC632}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54836D29-93F2-430A-BA4D-D6F3B7CBC632}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

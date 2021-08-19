@@ -1,0 +1,13 @@
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\OMaior\bin\Debug\netcoreapp3.1\OMaior.exe
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\OMaior\bin\Debug\netcoreapp3.1\OMaior.deps.json
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\OMaior\bin\Debug\netcoreapp3.1\OMaior.runtimeconfig.json
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\OMaior\bin\Debug\netcoreapp3.1\OMaior.runtimeconfig.dev.json
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\OMaior\bin\Debug\netcoreapp3.1\OMaior.dll
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\OMaior\bin\Debug\netcoreapp3.1\OMaior.pdb
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\OMaior\obj\Debug\netcoreapp3.1\OMaior.AssemblyInfoInputs.cache
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\OMaior\obj\Debug\netcoreapp3.1\OMaior.AssemblyInfo.cs
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\OMaior\obj\Debug\netcoreapp3.1\OMaior.csproj.CoreCompileInputs.cache
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\OMaior\obj\Debug\netcoreapp3.1\OMaior.dll
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\OMaior\obj\Debug\netcoreapp3.1\OMaior.pdb
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\OMaior\obj\Debug\netcoreapp3.1\OMaior.genruntimeconfig.cache
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\OMaior\obj\Debug\netcoreapp3.1\OMaior.csprojAssemblyReference.cache
