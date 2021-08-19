@@ -13,3 +13,6 @@ Repositório para documentar as resoluções dos desafios apresentados no Uri On
 8. Diferença - /ExtremamenteBasico/Diferenca
 9. Salário - /ExtremamenteBasico/Salario
 10. Salário com Bônus - /ExtremamenteBasico/SalarioComBonus
+11. Cálculo Simples - /ExtremamenteBasico/CalculoSimples
+12. Esfera - /ExtremamenteBasico/Esfera
+13. Área - /ExtremamenteBasico/Area
