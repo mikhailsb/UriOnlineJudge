@@ -5,7 +5,7 @@ Repositório para documentar as resoluções dos desafios apresentados no Uri On
 
 1. Hello World! - /ExtremamenteBasico/
 2. Extremamente Básico - /ExtremamenteBasico/
-3. Área do Círculo - 
+3. Área do Círculo - /ExtremamenteBasico/AreaDoCirculo
 4. Soma Simples - /ExtremamenteBasico/SomaSimples
 5. Produto Simples - /ExtremamenteBasico/ProdutoSimples
 6. Média 1 - /ExtremamenteBasico/Media1

@@ -1,0 +1,13 @@
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\CalculoSimples\bin\Debug\netcoreapp3.1\CalculoSimples.exe
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\CalculoSimples\bin\Debug\netcoreapp3.1\CalculoSimples.deps.json
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\CalculoSimples\bin\Debug\netcoreapp3.1\CalculoSimples.runtimeconfig.json
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\CalculoSimples\bin\Debug\netcoreapp3.1\CalculoSimples.runtimeconfig.dev.json
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\CalculoSimples\bin\Debug\netcoreapp3.1\CalculoSimples.dll
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\CalculoSimples\bin\Debug\netcoreapp3.1\CalculoSimples.pdb
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\CalculoSimples\obj\Debug\netcoreapp3.1\CalculoSimples.csprojAssemblyReference.cache
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\CalculoSimples\obj\Debug\netcoreapp3.1\CalculoSimples.AssemblyInfoInputs.cache
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\CalculoSimples\obj\Debug\netcoreapp3.1\CalculoSimples.AssemblyInfo.cs
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\CalculoSimples\obj\Debug\netcoreapp3.1\CalculoSimples.csproj.CoreCompileInputs.cache
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\CalculoSimples\obj\Debug\netcoreapp3.1\CalculoSimples.dll
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\CalculoSimples\obj\Debug\netcoreapp3.1\CalculoSimples.pdb
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\CalculoSimples\obj\Debug\netcoreapp3.1\CalculoSimples.genruntimeconfig.cache

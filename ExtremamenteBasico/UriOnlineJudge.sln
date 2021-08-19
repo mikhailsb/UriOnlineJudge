@@ -7,19 +7,25 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtremamenteBasico", "UriOn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaDoCirculo", "AreaDoCirculo\AreaDoCirculo.csproj", "{1D6B535E-DAAE-401A-8247-734826BD6900}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SomaSimples", "SomaSimples\SomaSimples.csproj", "{7A398B23-8CEB-4E4C-BA6D-68A75E29F98A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SomaSimples", "SomaSimples\SomaSimples.csproj", "{7A398B23-8CEB-4E4C-BA6D-68A75E29F98A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProdutoSimples", "ProdutoSimples\ProdutoSimples.csproj", "{3832BE7F-0D4C-4232-9A1D-65C7E2FC10FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProdutoSimples", "ProdutoSimples\ProdutoSimples.csproj", "{3832BE7F-0D4C-4232-9A1D-65C7E2FC10FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Media1", "Media1\Media1.csproj", "{E0A26439-CCDA-4471-B4AD-0D7A38844E18}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Media1", "Media1\Media1.csproj", "{E0A26439-CCDA-4471-B4AD-0D7A38844E18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Media2", "Media2\Media2.csproj", "{9A989100-79E7-4CB7-B8DB-52709F8DB146}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Media2", "Media2\Media2.csproj", "{9A989100-79E7-4CB7-B8DB-52709F8DB146}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diferenca", "Diferenca\Diferenca.csproj", "{FBA6B791-6F0E-40D8-94D5-607664CED110}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Diferenca", "Diferenca\Diferenca.csproj", "{FBA6B791-6F0E-40D8-94D5-607664CED110}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Salario", "Salario\Salario.csproj", "{075DE03B-7D48-4A03-BEB6-28A08342FC1D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Salario", "Salario\Salario.csproj", "{075DE03B-7D48-4A03-BEB6-28A08342FC1D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalarioComBonus", "SalarioComBonus\SalarioComBonus.csproj", "{2B9A719A-2C31-4985-842A-100F4D41D0AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SalarioComBonus", "SalarioComBonus\SalarioComBonus.csproj", "{2B9A719A-2C31-4985-842A-100F4D41D0AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculoSimples", "CalculoSimples\CalculoSimples.csproj", "{AF07CB1D-7BD6-4606-91B9-D7D0C6A7E62D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Esfera", "Esfera\Esfera.csproj", "{D919B702-A220-4DD2-AAED-9799465B076C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Area", "Area\Area.csproj", "{A453D352-ACF9-4F88-8978-1F8523FEBD19}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +69,18 @@ Global
 		{2B9A719A-2C31-4985-842A-100F4D41D0AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B9A719A-2C31-4985-842A-100F4D41D0AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B9A719A-2C31-4985-842A-100F4D41D0AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF07CB1D-7BD6-4606-91B9-D7D0C6A7E62D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF07CB1D-7BD6-4606-91B9-D7D0C6A7E62D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF07CB1D-7BD6-4606-91B9-D7D0C6A7E62D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF07CB1D-7BD6-4606-91B9-D7D0C6A7E62D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D919B702-A220-4DD2-AAED-9799465B076C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D919B702-A220-4DD2-AAED-9799465B076C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D919B702-A220-4DD2-AAED-9799465B076C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D919B702-A220-4DD2-AAED-9799465B076C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A453D352-ACF9-4F88-8978-1F8523FEBD19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A453D352-ACF9-4F88-8978-1F8523FEBD19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A453D352-ACF9-4F88-8978-1F8523FEBD19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A453D352-ACF9-4F88-8978-1F8523FEBD19}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

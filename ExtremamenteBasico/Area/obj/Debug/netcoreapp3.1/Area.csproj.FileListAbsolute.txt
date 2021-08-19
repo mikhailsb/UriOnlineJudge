@@ -1,0 +1,13 @@
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Area\bin\Debug\netcoreapp3.1\Area.exe
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Area\bin\Debug\netcoreapp3.1\Area.deps.json
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Area\bin\Debug\netcoreapp3.1\Area.runtimeconfig.json
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Area\bin\Debug\netcoreapp3.1\Area.runtimeconfig.dev.json
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Area\bin\Debug\netcoreapp3.1\Area.dll
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Area\bin\Debug\netcoreapp3.1\Area.pdb
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Area\obj\Debug\netcoreapp3.1\Area.csprojAssemblyReference.cache
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Area\obj\Debug\netcoreapp3.1\Area.AssemblyInfoInputs.cache
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Area\obj\Debug\netcoreapp3.1\Area.AssemblyInfo.cs
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Area\obj\Debug\netcoreapp3.1\Area.csproj.CoreCompileInputs.cache
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Area\obj\Debug\netcoreapp3.1\Area.dll
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Area\obj\Debug\netcoreapp3.1\Area.pdb
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Area\obj\Debug\netcoreapp3.1\Area.genruntimeconfig.cache
