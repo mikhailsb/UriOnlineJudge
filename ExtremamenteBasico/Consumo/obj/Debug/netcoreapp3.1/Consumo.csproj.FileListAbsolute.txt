@@ -1,0 +1,12 @@
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Consumo\bin\Debug\netcoreapp3.1\Consumo.exe
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Consumo\bin\Debug\netcoreapp3.1\Consumo.deps.json
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Consumo\bin\Debug\netcoreapp3.1\Consumo.runtimeconfig.json
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Consumo\bin\Debug\netcoreapp3.1\Consumo.runtimeconfig.dev.json
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Consumo\bin\Debug\netcoreapp3.1\Consumo.dll
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Consumo\bin\Debug\netcoreapp3.1\Consumo.pdb
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Consumo\obj\Debug\netcoreapp3.1\Consumo.AssemblyInfoInputs.cache
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Consumo\obj\Debug\netcoreapp3.1\Consumo.AssemblyInfo.cs
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Consumo\obj\Debug\netcoreapp3.1\Consumo.csproj.CoreCompileInputs.cache
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Consumo\obj\Debug\netcoreapp3.1\Consumo.dll
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Consumo\obj\Debug\netcoreapp3.1\Consumo.pdb
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Consumo\obj\Debug\netcoreapp3.1\Consumo.genruntimeconfig.cache

@@ -17,3 +17,4 @@ Repositório para documentar as resoluções dos desafios apresentados no Uri On
 12. Esfera - /ExtremamenteBasico/Esfera
 13. Área - /ExtremamenteBasico/Area
 14. O Maior - /ExtremamenteBasico/OMaior
+15. Consumo - /ExtremamenteBasico/Consumo
