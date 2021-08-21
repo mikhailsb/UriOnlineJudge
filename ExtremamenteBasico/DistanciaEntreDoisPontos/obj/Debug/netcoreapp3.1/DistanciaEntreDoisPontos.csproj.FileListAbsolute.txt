@@ -1,0 +1,13 @@
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\DistanciaEntreDoisPontos\bin\Debug\netcoreapp3.1\DistanciaEntreDoisPontos.exe
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\DistanciaEntreDoisPontos\bin\Debug\netcoreapp3.1\DistanciaEntreDoisPontos.deps.json
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\DistanciaEntreDoisPontos\bin\Debug\netcoreapp3.1\DistanciaEntreDoisPontos.runtimeconfig.json
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\DistanciaEntreDoisPontos\bin\Debug\netcoreapp3.1\DistanciaEntreDoisPontos.runtimeconfig.dev.json
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\DistanciaEntreDoisPontos\bin\Debug\netcoreapp3.1\DistanciaEntreDoisPontos.dll
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\DistanciaEntreDoisPontos\bin\Debug\netcoreapp3.1\DistanciaEntreDoisPontos.pdb
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\DistanciaEntreDoisPontos\obj\Debug\netcoreapp3.1\DistanciaEntreDoisPontos.csprojAssemblyReference.cache
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\DistanciaEntreDoisPontos\obj\Debug\netcoreapp3.1\DistanciaEntreDoisPontos.AssemblyInfoInputs.cache
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\DistanciaEntreDoisPontos\obj\Debug\netcoreapp3.1\DistanciaEntreDoisPontos.AssemblyInfo.cs
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\DistanciaEntreDoisPontos\obj\Debug\netcoreapp3.1\DistanciaEntreDoisPontos.csproj.CoreCompileInputs.cache
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\DistanciaEntreDoisPontos\obj\Debug\netcoreapp3.1\DistanciaEntreDoisPontos.dll
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\DistanciaEntreDoisPontos\obj\Debug\netcoreapp3.1\DistanciaEntreDoisPontos.pdb
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\DistanciaEntreDoisPontos\obj\Debug\netcoreapp3.1\DistanciaEntreDoisPontos.genruntimeconfig.cache
