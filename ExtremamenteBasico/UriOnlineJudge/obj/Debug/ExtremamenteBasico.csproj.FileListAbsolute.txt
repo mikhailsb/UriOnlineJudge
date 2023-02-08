@@ -1,7 +1,8 @@
 E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\UriOnlineJudge\bin\Debug\UriOnlineJudge.exe.config
 E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\UriOnlineJudge\bin\Debug\UriOnlineJudge.exe
 E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\UriOnlineJudge\bin\Debug\UriOnlineJudge.pdb
-E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\UriOnlineJudge\obj\Debug\ExtremamenteBasico.csprojAssemblyReference.cache
 E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\UriOnlineJudge\obj\Debug\ExtremamenteBasico.csproj.CoreCompileInputs.cache
 E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\UriOnlineJudge\obj\Debug\UriOnlineJudge.exe
 E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\UriOnlineJudge\obj\Debug\UriOnlineJudge.pdb
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\UriOnlineJudge\obj\Debug\ExtremamenteBasico.csproj.AssemblyReference.cache
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\UriOnlineJudge\obj\Debug\ExtremamenteBasico.csproj.SuggestedBindingRedirects.cache

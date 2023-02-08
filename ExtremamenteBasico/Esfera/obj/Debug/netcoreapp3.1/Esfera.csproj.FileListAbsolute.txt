@@ -10,3 +10,4 @@ E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Esfera\obj\Debug\netcor
 E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Esfera\obj\Debug\netcoreapp3.1\Esfera.dll
 E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Esfera\obj\Debug\netcoreapp3.1\Esfera.pdb
 E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Esfera\obj\Debug\netcoreapp3.1\Esfera.genruntimeconfig.cache
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Esfera\obj\Debug\netcoreapp3.1\Esfera.csprojAssemblyReference.cache

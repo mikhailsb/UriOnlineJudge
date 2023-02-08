@@ -1,0 +1,8 @@
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\GastoDeCombustivel\bin\Debug\GastoDeCombustivel.exe.config
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\GastoDeCombustivel\bin\Debug\GastoDeCombustivel.exe
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\GastoDeCombustivel\bin\Debug\GastoDeCombustivel.pdb
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\GastoDeCombustivel\obj\Debug\GastoDeCombustivel.csproj.AssemblyReference.cache
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\GastoDeCombustivel\obj\Debug\GastoDeCombustivel.csproj.SuggestedBindingRedirects.cache
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\GastoDeCombustivel\obj\Debug\GastoDeCombustivel.csproj.CoreCompileInputs.cache
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\GastoDeCombustivel\obj\Debug\GastoDeCombustivel.exe
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\GastoDeCombustivel\obj\Debug\GastoDeCombustivel.pdb

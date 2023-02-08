@@ -1,0 +1,8 @@
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\BuscaArquivoRecursivamente\bin\Debug\BuscaArquivoRecursivamente.exe.config
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\BuscaArquivoRecursivamente\bin\Debug\BuscaArquivoRecursivamente.exe
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\BuscaArquivoRecursivamente\bin\Debug\BuscaArquivoRecursivamente.pdb
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\BuscaArquivoRecursivamente\obj\Debug\BuscaArquivoRecursivamente.csproj.AssemblyReference.cache
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\BuscaArquivoRecursivamente\obj\Debug\BuscaArquivoRecursivamente.csproj.SuggestedBindingRedirects.cache
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\BuscaArquivoRecursivamente\obj\Debug\BuscaArquivoRecursivamente.csproj.CoreCompileInputs.cache
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\BuscaArquivoRecursivamente\obj\Debug\BuscaArquivoRecursivamente.exe
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\BuscaArquivoRecursivamente\obj\Debug\BuscaArquivoRecursivamente.pdb

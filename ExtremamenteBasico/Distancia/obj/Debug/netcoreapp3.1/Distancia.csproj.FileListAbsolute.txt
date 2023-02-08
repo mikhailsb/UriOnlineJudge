@@ -1,0 +1,12 @@
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Distancia\bin\Debug\netcoreapp3.1\Distancia.exe
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Distancia\bin\Debug\netcoreapp3.1\Distancia.deps.json
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Distancia\bin\Debug\netcoreapp3.1\Distancia.runtimeconfig.json
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Distancia\bin\Debug\netcoreapp3.1\Distancia.runtimeconfig.dev.json
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Distancia\bin\Debug\netcoreapp3.1\Distancia.dll
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Distancia\bin\Debug\netcoreapp3.1\Distancia.pdb
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Distancia\obj\Debug\netcoreapp3.1\Distancia.AssemblyInfoInputs.cache
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Distancia\obj\Debug\netcoreapp3.1\Distancia.AssemblyInfo.cs
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Distancia\obj\Debug\netcoreapp3.1\Distancia.csproj.CoreCompileInputs.cache
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Distancia\obj\Debug\netcoreapp3.1\Distancia.dll
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Distancia\obj\Debug\netcoreapp3.1\Distancia.pdb
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Distancia\obj\Debug\netcoreapp3.1\Distancia.genruntimeconfig.cache

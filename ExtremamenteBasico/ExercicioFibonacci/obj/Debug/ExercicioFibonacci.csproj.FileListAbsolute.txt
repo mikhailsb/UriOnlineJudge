@@ -1,0 +1,8 @@
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\ExercicioFibonacci\bin\Debug\ExercicioFibonacci.exe.config
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\ExercicioFibonacci\bin\Debug\ExercicioFibonacci.exe
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\ExercicioFibonacci\bin\Debug\ExercicioFibonacci.pdb
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\ExercicioFibonacci\obj\Debug\ExercicioFibonacci.csproj.AssemblyReference.cache
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\ExercicioFibonacci\obj\Debug\ExercicioFibonacci.csproj.SuggestedBindingRedirects.cache
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\ExercicioFibonacci\obj\Debug\ExercicioFibonacci.csproj.CoreCompileInputs.cache
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\ExercicioFibonacci\obj\Debug\ExercicioFibonacci.exe
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\ExercicioFibonacci\obj\Debug\ExercicioFibonacci.pdb

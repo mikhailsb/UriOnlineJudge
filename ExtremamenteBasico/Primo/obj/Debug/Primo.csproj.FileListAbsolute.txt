@@ -1,0 +1,8 @@
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Primo\obj\Debug\Primo.csproj.AssemblyReference.cache
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Primo\obj\Debug\Primo.csproj.CoreCompileInputs.cache
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Primo\bin\Debug\Primo.exe.config
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Primo\bin\Debug\Primo.exe
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Primo\bin\Debug\Primo.pdb
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Primo\obj\Debug\Primo.exe
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Primo\obj\Debug\Primo.pdb
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Primo\obj\Debug\Primo.csproj.SuggestedBindingRedirects.cache
