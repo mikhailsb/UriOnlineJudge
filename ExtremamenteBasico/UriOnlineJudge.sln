@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GastoDeCombustivel", "Gasto
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuscaArquivoRecursivamente", "BuscaArquivoRecursivamente\BuscaArquivoRecursivamente.csproj", "{4451285A-9BD9-4D80-A1C2-8DE3F888782B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cedulas", "Cedulas\Cedulas.csproj", "{A1D72078-CB31-4EB7-8D36-BBA60C1A902E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{4451285A-9BD9-4D80-A1C2-8DE3F888782B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4451285A-9BD9-4D80-A1C2-8DE3F888782B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4451285A-9BD9-4D80-A1C2-8DE3F888782B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1D72078-CB31-4EB7-8D36-BBA60C1A902E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1D72078-CB31-4EB7-8D36-BBA60C1A902E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1D72078-CB31-4EB7-8D36-BBA60C1A902E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1D72078-CB31-4EB7-8D36-BBA60C1A902E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

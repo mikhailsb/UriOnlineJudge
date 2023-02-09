@@ -1,0 +1,8 @@
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Cedulas\bin\Debug\Cedulas.exe.config
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Cedulas\bin\Debug\Cedulas.exe
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Cedulas\bin\Debug\Cedulas.pdb
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Cedulas\obj\Debug\Cedulas.csproj.AssemblyReference.cache
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Cedulas\obj\Debug\Cedulas.csproj.SuggestedBindingRedirects.cache
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Cedulas\obj\Debug\Cedulas.csproj.CoreCompileInputs.cache
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Cedulas\obj\Debug\Cedulas.exe
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\Cedulas\obj\Debug\Cedulas.pdb
