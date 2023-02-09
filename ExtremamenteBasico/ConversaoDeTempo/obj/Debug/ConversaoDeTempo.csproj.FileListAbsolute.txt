@@ -1,0 +1,8 @@
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\ConversaoDeTempo\bin\Debug\ConversaoDeTempo.exe.config
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\ConversaoDeTempo\bin\Debug\ConversaoDeTempo.exe
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\ConversaoDeTempo\bin\Debug\ConversaoDeTempo.pdb
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\ConversaoDeTempo\obj\Debug\ConversaoDeTempo.csproj.AssemblyReference.cache
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\ConversaoDeTempo\obj\Debug\ConversaoDeTempo.csproj.SuggestedBindingRedirects.cache
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\ConversaoDeTempo\obj\Debug\ConversaoDeTempo.csproj.CoreCompileInputs.cache
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\ConversaoDeTempo\obj\Debug\ConversaoDeTempo.exe
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\ConversaoDeTempo\obj\Debug\ConversaoDeTempo.pdb
