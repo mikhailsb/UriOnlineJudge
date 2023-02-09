@@ -10,7 +10,7 @@ namespace ConversaoDeTempo
     {
         static void Main(string[] args)
         {
-            int entrada = 556;
+            int entrada = int.Parse(Console.ReadLine());
 
             int hora = (int)(entrada / (60 * 60));
             int minuto = (int)((entrada - (hora * 60 * 60)) / 60);

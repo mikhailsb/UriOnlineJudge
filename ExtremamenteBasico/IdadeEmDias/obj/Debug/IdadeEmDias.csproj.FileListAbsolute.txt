@@ -1,0 +1,8 @@
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\IdadeEmDias\bin\Debug\IdadeEmDias.exe.config
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\IdadeEmDias\bin\Debug\IdadeEmDias.exe
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\IdadeEmDias\bin\Debug\IdadeEmDias.pdb
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\IdadeEmDias\obj\Debug\IdadeEmDias.csproj.AssemblyReference.cache
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\IdadeEmDias\obj\Debug\IdadeEmDias.csproj.SuggestedBindingRedirects.cache
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\IdadeEmDias\obj\Debug\IdadeEmDias.csproj.CoreCompileInputs.cache
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\IdadeEmDias\obj\Debug\IdadeEmDias.exe
+E:\Projetos\Git\GitHub\urionlinejudge\ExtremamenteBasico\IdadeEmDias\obj\Debug\IdadeEmDias.pdb
