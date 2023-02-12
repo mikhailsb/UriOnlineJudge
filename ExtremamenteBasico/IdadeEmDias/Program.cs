@@ -17,9 +17,9 @@ namespace IdadeEmDias
             int mes = resto / 30;
             int dias = resto % 30;
 
-            Console.WriteLine($"{ano} ano (s)");
-            Console.WriteLine($"{mes} mes (es)");
-            Console.WriteLine($"{dias} dia (s)");
+            Console.WriteLine($"{ano} ano(s)");
+            Console.WriteLine($"{mes} mes(es)");
+            Console.WriteLine($"{dias} dia(s)");
 
             Console.ReadLine();
         }
